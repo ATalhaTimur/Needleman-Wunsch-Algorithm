@@ -67,7 +67,11 @@ The Needleman-Wunsch algorithm is a globally recognized method for sequence alig
 -  `----CGG-GTAGTTAACCC-T--AC-AG--C-AT-AGA-G-T-CGC-G-AG-ATA---AAGTGCAG-GAGTCTTTCGCGGCAGATTCGT-A--- CCT-C-A--ACCACGT--GCTACT---T-T-CTGG-CATC-ACGA-ATCTGCCGC-AT-A-G-GTCC-GTGA-GTCCATATGA`
 - **Sequence 2**:
 - `AGGA---AGTAGTTAGCCTA-ACA-G-GCA-TA-GAG-T-C-GCG-A-CA-TAT-GTGAA--G-A-T--GTCATT--CGGT--ATTCA-AACCT -C-A-T-GCATCAT-TGC-CT--TGAGTC-GC---TC--CT--G-GA---GCA--TA-G-T-C--CCTGAG-TG-CCATATGA`
+
+  
 ![Ekran Resmi 2024-07-08 04 34 25](https://github.com/ATalhaTimur/Needleman-Wunsch-Algorithm/assets/93510585/db22bfa0-86eb-4c0f-b019-886111ff222e)
+
+
 ## Discussion
 
 ### Evaluation of Results
